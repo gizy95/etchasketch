@@ -19,17 +19,22 @@ body{
     width: 800px;
     height: 800px;
     flex-wrap: wrap;
+    margin-top: 40px;
    
    
     
 }
 
 .grid{
-    border: solid black 1px;
+    border: solid gray 1px;
     margin: -1px;
     padding: -1px;
-    width: 133.33px;
-    height: 133.33px;
+    width: 50px;
+    height: 50px;
    
     
+}
+
+.grid-color{
+    background-color: gray;
 }
