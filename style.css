@@ -11,6 +11,13 @@ body{
     align-items: center;
 }
 
+#buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+
 #container {
     
     background-color: white;
